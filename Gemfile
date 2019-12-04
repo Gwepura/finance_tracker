@@ -28,6 +28,9 @@ gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootst
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
 gem 'execjs', '~> 2.7'
+gem 'iex-ruby-client'
+gem "font-awesome-rails"
+gem 'hirb', '~> 0.7.3'
 
 ###################################
 #         MY GEMS - END          #
